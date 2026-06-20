@@ -1,0 +1,12 @@
+app_flutter/
+cert.pem
+key.pem
+https_server.py
+make_logos.ps1
+node_modules/
+package.json
+package-lock.json
+logic.js
+logic.test.js
+*.apk
+.git/

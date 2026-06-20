@@ -1,0 +1,24 @@
+{
+  "name": "Relatório Fotográfico",
+  "short_name": "Relatório Foto",
+  "description": "App de relatório fotográfico para inspeções e manutenções",
+  "start_url": "app_foto2.html",
+  "display": "standalone",
+  "background_color": "#003f73",
+  "theme_color": "#003f73",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "vale.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "vale.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
