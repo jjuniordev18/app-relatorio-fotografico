@@ -20,7 +20,7 @@ App web para inspeções técnicas e manutenções preventivas (MP/INSP). Funcio
 - 🌙 **Modo escuro** — tema claro/escuro com persistência
 - 📱 **PWA** — funciona offline após primeiro acesso
 - 💾 **Auto-save** — dados salvos automaticamente no navegador
-- 🔐 **Modo Admin** — edite, reordene e adicione atividades (senha: 3577)
+- 🔐 **Modo Admin** — edite, reordene e adicione atividades (senha: ****)
 
 ## Como usar
 
@@ -46,7 +46,7 @@ App web para inspeções técnicas e manutenções preventivas (MP/INSP). Funcio
 
 ## Admin
 
-Clique em ⚙ e digite a senha **3577** para:
+Clique em ⚙ e digite a senha **----** para:
 - Editar nomes de atividades e itens
 - Reordenar itens (▲▼)
 - Adicionar/excluir itens
